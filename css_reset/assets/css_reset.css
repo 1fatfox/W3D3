@@ -1,0 +1,23 @@
+
+html, body, section, article, h1, h2, p, ul, ol, ol li, header, aside {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: MediumSeaGreen;
+  background-color: lavender;
+}
+
+body {
+  line-height: 1.5;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  width: 100%;
+}
